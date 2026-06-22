@@ -1,4 +1,4 @@
-# LLM Fine-Tuning: TinyLlama on Medical Q&A
+# Medical Q&A Chatbot using TinyLlama Fine-Tuning (QLoRA)
 
 Fine-tuned **TinyLlama-1.1B-Chat** on 2,000 medical Q&A examples using
 **LoRA (rank-8, 4-bit QLoRA)** via PEFT — achieving a measured **+1.3%
